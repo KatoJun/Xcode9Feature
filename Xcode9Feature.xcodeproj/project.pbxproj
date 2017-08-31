@@ -22,6 +22,7 @@
 		CF115F251F57F8D50070630F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CF115F281F57F8D50070630F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CF115F2A1F57F8D50070630F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CF115F301F57F90C0070630F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				CF115F251F57F8D50070630F /* Assets.xcassets */,
 				CF115F271F57F8D50070630F /* LaunchScreen.storyboard */,
 				CF115F2A1F57F8D50070630F /* Info.plist */,
+				CF115F301F57F90C0070630F /* README.md */,
 			);
 			path = Xcode9Feature;
 			sourceTree = "<group>";
