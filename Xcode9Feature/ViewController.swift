@@ -8,14 +8,24 @@
 
 import UIKit
 
+
+struct User {
+    let id: Int
+    let name: String
+}
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
         for i in 1...10 {
             print(i)
         }
+    }
+
+    func extractVariable() {
+        var users = [User]()
+        users.append(User(id: 1, name: "kato"))
     }
 }
 
